@@ -9,8 +9,13 @@ header h1{
     color: green;
 }
 
-header h3{
+main p{
     text-align: center;
-    margin-top: 50px;
-    color: green; 
+    margin-top: 50px; 
+    margin: 60px;
+    font-size: 30px;
+}
+
+main li{
+    text-align: center;
 }
