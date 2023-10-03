@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+header h1{
+    text-align: center;
+    margin-top: 50px;
+    color: green;
+}
+
+header h3{
+    text-align: center;
+    margin-top: 50px;
+    color: green; 
+}
