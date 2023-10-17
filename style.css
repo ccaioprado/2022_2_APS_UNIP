@@ -13,12 +13,13 @@ header {
     color: #19282F;
 }
 
-body{
-    margin-top: 10px;
-}
 
 header div {
     margin-bottom: 10px;
+}
+
+body{
+    margin-top: 10px;
 }
 
 main p{
@@ -28,3 +29,6 @@ main p{
     font-size: 30px;
 }
 
+.economia_agua{
+    
+}
