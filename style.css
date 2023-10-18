@@ -78,4 +78,55 @@ main p{
     padding: 0;
 }
 
+.natura{
+    margin-left: 150px;
+    margin-top: 200px;
+    font-size:xx-large
+}
 
+.logo_natura{
+    display: flex;
+    justify-content: center;
+    margin-right: 100px;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    flex-direction: row-reverse;
+}
+
+.bb{
+    margin-left: 150px;
+    margin-top: 200px;
+    font-size:xx-large
+}
+
+.logo_bb{
+    display: flex;
+    justify-content: center;
+    margin-right: 100px;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    flex-direction: row-reverse;
+}
+
+.b3{
+    margin-left: 150px;
+    margin-top: 200px;
+    font-size:xx-large
+}
+
+.logo_b3{
+    display: flex;
+    justify-content: center;
+    margin-right: 100px;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    flex-direction: row-reverse;
+}
+
+.tecnologia_titulo{
+    text-align: center;
+    font-size:xx-large
+}
