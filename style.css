@@ -30,5 +30,52 @@ main p{
 }
 
 .economia_agua{
-    
+    margin-left: 150px;
+    margin-top: 200px;
+    margin-bottom: -100px;
+    font-size:xx-large
+
 }
+
+.logo_agua{
+    display: flex;
+    justify-content: end;
+    margin-right: 100px;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+
+.economia_energia{
+    margin-left: 150px;
+    margin-top: 200px;
+    font-size:xx-large
+}
+
+.logo_energia{
+    display: flex;
+    justify-content: end;
+    margin-right: 100px;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    flex-direction: row-reverse;
+}
+
+.reciclagem{
+    margin-left: 150px;
+    margin-top: 200px;
+    font-size:xx-large
+}
+
+.logo_reciclagem{
+    display: flex;
+    justify-content: end;
+    margin-right: 100px;
+    align-items: center;
+    margin: 0;
+    margin-right: 40px;
+    padding: 0;
+}
+
+
