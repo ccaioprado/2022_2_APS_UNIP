@@ -46,7 +46,7 @@ main p{
     padding: 0;
 }
 
-.economia_energia{
+.energia_sustentavel{
     margin-left: 150px;
     margin-top: 200px;
     font-size:xx-large
@@ -62,13 +62,13 @@ main p{
     flex-direction: row-reverse;
 }
 
-.reciclagem{
+.agricultura{
     margin-left: 150px;
     margin-top: 200px;
     font-size:xx-large
 }
 
-.logo_reciclagem{
+.logo_agricultura{
     display: flex;
     justify-content: end;
     margin-right: 100px;
@@ -78,13 +78,13 @@ main p{
     padding: 0;
 }
 
-.natura{
+.politica{
     margin-left: 150px;
     margin-top: 200px;
     font-size:xx-large
 }
 
-.logo_natura{
+.logo_politica{
     display: flex;
     justify-content: center;
     margin-right: 100px;
@@ -94,13 +94,13 @@ main p{
     flex-direction: row-reverse;
 }
 
-.bb{
+.economico{
     margin-left: 150px;
     margin-top: 200px;
     font-size:xx-large
 }
 
-.logo_bb{
+.logo_economico{
     display: flex;
     justify-content: center;
     margin-right: 100px;
@@ -110,13 +110,13 @@ main p{
     flex-direction: row-reverse;
 }
 
-.b3{
+.transporte{
     margin-left: 150px;
     margin-top: 200px;
     font-size:xx-large
 }
 
-.logo_b3{
+.logo_transporte{
     display: flex;
     justify-content: center;
     margin-right: 100px;
@@ -129,4 +129,18 @@ main p{
 .tecnologia_titulo{
     text-align: center;
     font-size:xx-large
+}
+
+.titulo{
+    font-size: xx-large;
+}
+
+.logo_tech{
+    display: flex;
+    justify-content: center;
+    margin-right: 100px;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    flex-direction: row-reverse;
 }
