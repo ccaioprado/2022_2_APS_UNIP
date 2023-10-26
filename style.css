@@ -128,7 +128,8 @@ main p{
 
 .tecnologia_titulo{
     text-align: center;
-    font-size:xx-large
+    font-size:xx-large;
+    margin-top: 100px;
 }
 
 .titulo{
@@ -137,10 +138,10 @@ main p{
 
 .logo_tech{
     display: flex;
-    justify-content: center;
+    justify-content: end;
     margin-right: 100px;
     align-items: center;
     margin: 0;
+    margin-right: 40px;
     padding: 0;
-    flex-direction: row-reverse;
 }
