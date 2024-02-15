@@ -12,8 +12,5 @@ O tema escolhido foi “Como pequenos hábitos e iniciativas governamentais pode
 - HTML
 - CSS
 
-## Como rodar o projeto em seu computador?
-Basta baixar a pasta do projeto e em seguida abrir o arquivo com a extensão .html(O arquivo que possui o ícone de seu navegador de uso)
-
 ## Considerações finais
 Foi muito gratificante fazer este projeto porque com as pesquisas feitas sobre o tema, percebi o quão prejudicial pode ser alguns hábitos rotineiros que temos e quanta diferença faz para a fauna e flora adotarmos hábitos cada vez mais sustentáveis e espero que esse projeto possa mudar também os hábitos de outras pessoas para que assim tenhamos um mundo mais limpo e sustentável.
